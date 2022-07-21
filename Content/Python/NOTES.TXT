@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=yMoyxqSMuEE&t=277s
+
+@ 24m he gets the list of strings of methods and properties by calling reg function
+
+26m: gets a specific object and prints its name from within python
